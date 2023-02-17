@@ -14,6 +14,8 @@ if stemp ==0
     mkdir(sdaily);  %daily_av
 end
 
+%ene comment nemsen kdjlfjdf
+
 smonth = [path '\monthly\'];
 stemp = isfolder(smonth);
 if stemp ==0
